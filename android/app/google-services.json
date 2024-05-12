@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094317271941",
+    "project_id": "locked-in-app",
+    "storage_bucket": "locked-in-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094317271941:android:2325cde06f9d57bf2a72ec",
+        "android_client_info": {
+          "package_name": "com.example.new_web"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfE7DJ10WiEjW-iK1yR-RjnnL_bqLDdzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
